@@ -1,0 +1,12 @@
+1 ; casa ; 1000
+122 ; masa ; 50
+31 ; jucarie ; 25
+6 ; casa1 ; 1000
+77 ; masa1 ; 50
+67 ; jucarie1 ; 25
+48 ; casa2 ; 1000
+59 ; masa2 ; 50
+32 ; jucarie2 ; 25
+19 ; casa3 ; 1000
+
+99;oglinda;56
